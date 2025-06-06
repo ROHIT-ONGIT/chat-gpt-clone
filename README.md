@@ -1,4 +1,4 @@
-# 🧠 GPT Clone – Your Personal AI Chatbot
+#  GPT Clone – Your Personal AI Chatbot
 
 A sleek, fully-functional AI chatbot clone built using modern technologies like React, TailwindCSS, Node.js/Express, and OpenAI API. Clean UI, real-time conversation, markdown support, and more.
 
@@ -12,7 +12,6 @@ A sleek, fully-functional AI chatbot clone built using modern technologies like 
 * 💬 Streaming support (optional)
 * 🧠 Context-aware conversations
 * 🌗 Light/dark mode (optional)
-
 ---
 
 ## 📦 Tech Stack
@@ -26,7 +25,7 @@ A sleek, fully-functional AI chatbot clone built using modern technologies like 
 
 **Backend**:
 
-* Node.js
+* Next.js
 * Express
 * OpenAI SDK
 * dotenv
